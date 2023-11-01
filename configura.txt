@@ -11,3 +11,13 @@ git config --global -e
 Problema de plataforma (mac y hithub)
 git config --global core.autocrlf input 
 
+FLUJO DE GIT
+LOCAL/STAGE/COMMIT/REMOTE
+
+Inicializar un reporsitorio local git en una carpeta 
+git init (en la carpeta que seleecionamos)
+git add archivo1 <agregamos a stage)
+git commit -m "Se actualizo archivo"
+
+Ver estado de archivos 
+git status
