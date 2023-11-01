@@ -1,1 +1,13 @@
+configuracion inicial
+git config --global user.name "Walter Centeno"
+git config --global user.email investi23.wc@gmail.com
+
+configuracion de editor de Codig(Visual Studio Code)
+git config --global core.editor "code --wait"
+
+Verificar lo que hemos realizado
+git config --global -e
+
+Problema de plataforma (mac y hithub)
+git config --global core.autocrlf input 
 
